@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hugo.guedes@hrguedes.dev**
 
-- 📄 Know about my experiences [https://github.com/hrguedes/hrguedes/blob/main/Hugo%20Roberto%20Guedes%20-%20Resume%20-%202023.pdf](https://github.com/hrguedes/hrguedes/blob/main/Hugo%20Roberto%20Guedes%20-%20Resume%20-%202023.pdf)
+- 📄 Know about my experiences [https://github.com/hrguedes/hrguedes/blob/main/Hugo%20Roberto%20Guedes%20-%20Resumes%20-%202023.pdf])
 
 - ⚡ Fun fact **I am a drummer**
 
