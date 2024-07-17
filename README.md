@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo Guedes</h1>
 <h3 align="center">I love developer and create things</h3>
 
-
-- 🔭 I’m currently working on [API Boilerplate](https://github.com/hrguedes/boilerplate-net-api)
-
-- 🌱 I’m currently learning **NEXTJS and TAILWINDCSS**
+- 🌱 I’m currently learning **RUST**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hrguedes](https://github.com/hrguedes)
 
@@ -12,7 +9,7 @@
 
 - 📫 How to reach me **hugo.guedes@hrguedes.dev**
 
-- 📄 Know about my experiences [https://github.com/hrguedes/hrguedes/blob/main/Hugo%20Roberto%20Guedes%20-%20Resumes%20-%202023.pdf]
+- 📄 Know about my experiences [https://github.com/hrguedes/hrguedes/blob/main/Hugo_Roberto_Guedes_RESUME.pdf]
 
 - ⚡ Fun fact **I am a drummer**
 
