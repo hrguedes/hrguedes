@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo Guedes</h1>
 <h3 align="center">I love developer and create things</h3>
 
-- 🌱 I’m currently learning **RUST**
+- 🌱 I’m currently learning **GO LANG**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hrguedes](https://github.com/hrguedes)
 
@@ -17,9 +17,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/hugo-guedes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-guedes" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrguedes&show_icons=true&locale=en&layout=compact" alt="hrguedes" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrguedes&show_icons=true&locale=en" alt="hrguedes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrguedes&" alt="hrguedes" /></p>
