@@ -48,4 +48,4 @@ I've spent a good part of my career modernizing legacy systems and designing new
 
 - 📧 [hugo.guedes@hrguedes.dev](mailto:hugo.guedes@hrguedes.dev)
 - 💼 [linkedin.com/in/hugo-guedes](https://www.linkedin.com/in/hugo-guedes)
-- 📄 [Résumé (PDF)](https://github.com/hrguedes/hrguedes/blob/main/Currículo%20-%20Hugo%20Guedes.pdf)
+- 📄 [Résumé (PDF)](https://github.com/hrguedes/hrguedes/blob/main/CURRICULO.pdf)
